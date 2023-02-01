@@ -6,8 +6,7 @@ body{
     background-color:#688A08;
 }
 .quem-somos{
-    background-color:#8181F7;
-    color:white;
+    background-color:#8FBC8F;
 }
 
 .margin{
@@ -16,5 +15,10 @@ body{
 }
 
 .parceiros{
-    background-color:#5882FA;
+    background-color:#D3D3D3;
+}
+
+.bg-footer{
+  background-color:black;
+  color: white;
 }
